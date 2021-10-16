@@ -14,14 +14,7 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href=""><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/darkdeathblackwidow5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"></a>
-    <img src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-
-  <a href="https://twitter.com/NeerajR76494084">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/NeerajR76494084?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Neeraj2002">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://neeraj2002.github.io/">
-    <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
+    <img src="https://img.shields.io/github/followers/DarkDeathBlackWidow5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a> 
 </p>
 
 ## 🙋‍♂️ Connect with me
