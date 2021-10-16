@@ -33,6 +33,12 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
   <a href="https://open.spotify.com/user/czkx6l0rkrim5z9tn6w9lqtzx?si=-pisE104SYmlUZwYF1FgWg&utm_source=copy-link&dl_branch="><img alt="Spotify" title="Spotify"                      src="https://img.shields.io/badge/-spotify-blue?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="https://https://github.com/DarkDeathBlackWidow5="><img alt="Github" title="Github"                      
      src="https://img.shields.io/badge/-github-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://replit.com/@DarkWarriorTheW="><img alt="Replit" title="Replit"                      
+     src="https://img.shields.io/badge/-replit-blue?style=for-the-badge&logo=replit&logoColor=white"/></a>
+  <a href="https://vm.tiktok.com/ZMR7doofv/="><img alt="TikTok" title="TikTok"                      
+     src="https://img.shields.io/badge/-tiktok-blue?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://replit.com/@DarkWarriorTheW="><img alt="YouTube " title="YouTube "                      
+     src="https://img.shields.io/badge/-youtube-blue?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 
