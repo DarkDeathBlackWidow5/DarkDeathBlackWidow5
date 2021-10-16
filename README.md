@@ -27,12 +27,12 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/NeerajR76494084"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+  <a href="https://www.youtube.com/channel/UCi5YScR9oC3K_ICHsmcdwmA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://discord.gg/v7YG63MYAM" alt="Darks Gaming/Chilling Server">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://devfolio.co/@nnr0702"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEVFOLIO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=black"></a>
-  <a href="https://dev.to/neeraj2002"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://discord.gg/8rkUDwZTUF" alt="Official Dark City Roleplay">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
+  <a href="https://dev.to/darkdeathblackwidow5"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
 ## 🔥 Streak stats
