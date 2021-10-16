@@ -29,9 +29,9 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-    <a href="https://www.snapchat.com/add/dark21thewolf"><img alt="My SnapChat" title="Go Follow My SnapChat"> 
-    <img src="https://img.shields.io/badge/-snapchat-blue?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.snapchat.com/add/dark21thewolf"><img alt="SnapChat" title="SnapChat" src="https://img.shields.io/badge/-snapchat-blue?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
 
 ## 🔥 Streak stats
 
