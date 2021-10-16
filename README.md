@@ -20,7 +20,7 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/NeerajR76494084?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Neeraj2002">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    
+   
   <a href="https://neeraj2002.github.io/">
     <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
 </p>
@@ -32,8 +32,8 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
   <a href="https://www.snapchat.com/add/dark21thewolf"><img alt="SnapChat" title="SnapChat" src="https://img.shields.io/badge/-snapchat-blue?style=for-the-                           badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100072551717972"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-facebook-blue?style=for-the-             badge&logo=youtube&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/czkx6l0rkrim5z9tn6w9lqtzx?si=-pisE104SYmlUZwYF1FgWg&utm_source=copy-link&dl_branch="><img alt="Spotify" title="Spotify"                      src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  
-
+  <a href="https://https://github.com/DarkDeathBlackWidow5="><img alt="Github" title="Github"                      
+     src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 
