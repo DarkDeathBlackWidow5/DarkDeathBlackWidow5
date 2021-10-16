@@ -124,11 +124,11 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NeerajRathod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neeraj2002&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neeraj Rathod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj2002&layout=compact" height="192px"/></a>
+    <a href="https://github.com/DarkDeathBlackWidow5/github-readme-stats"><img alt="DarkDeathBlackWidow5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarkDeathBlackWidow5&show_icons=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/DarkDeathBlackWidow5/github-readme-stats"><img alt="DarkDeathBlackWidow5 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDeathBlackWidow5&layout=compact" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Neeraj2002&theme=react-dark&hide_border=true" /></a>
+<a href="https://github.com/DarkDeathBlackWidow5/github-readme-activity-graph"><img alt="DarkDeathBlackWidow5's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=DarkDeathBlackWidow5&theme=react-dark&hide_border=true" /></a>
