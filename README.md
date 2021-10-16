@@ -14,7 +14,6 @@ Welcome to DarkDeathBlackWidow5 profile! <img src="https://media.giphy.com/media
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href=""><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/darkdeathblackwidow5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"></a>
-    <img src="https://img.shields.io/github/followers/DarkDeathBlackWidow5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a> 
 </p>
 
 ## 🙋‍♂️ Connect with me
