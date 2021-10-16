@@ -13,8 +13,8 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCi5YScR9oC3K_ICHsmcdwmA?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC_CvPIwiEn0_Dis86sqOCag?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" /></a>  
+<a href="https://www.snapchat.com/add/dark21thewolf"><img alt="My SnapChat" title="Go Follow My SnapChat" src="https://img.shields.io/badge/-snapchat-blue?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
   <a href="https://twitter.com/NeerajR76494084">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/NeerajR76494084?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Neeraj2002">
