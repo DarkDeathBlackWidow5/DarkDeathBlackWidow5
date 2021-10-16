@@ -3,7 +3,7 @@
 Welcome to DarkDeathBlackWidow5 profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h3>
 
-## I'm a Student, Developer,FiveM Developer, Discord Bot Developer, Discord Server Developer!!
+## I'm a Student, Developer, FiveM Developer, Discord Bot Developer, Discord Server Developer!!
 
 - 👀 I’m interested in New Tech, Frontend Development, Python
 - 🌱 I’m currently learning everything 
