@@ -39,6 +39,8 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
      src="https://img.shields.io/badge/-tiktok-blue?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://replit.com/@DarkWarriorTheW="><img alt="YouTube " title="YouTube "                      
      src="https://img.shields.io/badge/-youtube-blue?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://discord.gg/v7YG63MYAM="><img alt="Discord " title="Discord "                      
+     src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 
