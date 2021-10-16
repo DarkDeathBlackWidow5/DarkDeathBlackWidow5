@@ -13,7 +13,7 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href=""><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"></a>
+  <a href=""><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/darkdeathblackwidow5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"></a>
     <img src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 
   <a href="https://twitter.com/NeerajR76494084">
@@ -30,13 +30,6 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 <p align="center">
     <a href="https://www.snapchat.com/add/dark21thewolf"><img alt="My SnapChat" title="Go Follow My SnapChat"> 
     <img src="https://img.shields.io/badge/-snapchat-blue?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UC
-           i5YScR9oC3K_ICHsmcdwmA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/v7YG63MYAM" alt="Darks Gaming/Chilling Server">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://discord.gg/8rkUDwZTUF" alt="Official Dark City Roleplay">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://dev.to/darkdeathblackwidow5"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
 ## 🔥 Streak stats
